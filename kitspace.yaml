@@ -1,0 +1,10 @@
+bom: hw/sch_pcb/SUPERCAP01.kicad_pcb
+color: white
+eda:
+  pcb: hw/sch_pcb/SUPERCAP01.kicad_pcb
+  type: kicad
+gerbers: hw/cam_profi/
+site: https://github.com/mlab-modules/SUPERCAP01
+summary: 'Circuit for charging and balancing two supercapacitors.  The module is suitable
+  for covering power outages devices. By detecting the input voltage drop can be used
+  for early shutdown of computers type ODROID on power. '

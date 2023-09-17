@@ -1,0 +1,18 @@
+description: 'Circuit for charging and balancing two supercapacitors.  The module
+  is suitable for covering power outages devices. By detecting the input voltage drop
+  can be used for early shutdown of computers type ODROID on power. '
+github_branch: SUPERCAP01A
+github_description: 'Circuit for charging and balancing two supercapacitors.  The
+  module is suitable for covering power outages devices. By detecting the input voltage
+  drop can be used for early shutdown of computers type ODROID on power. '
+github_repo: SUPERCAP01
+github_url: https://github.com/mlab-modules/SUPERCAP01
+homepage: false
+images:
+- doc/img/SUPERCAP01A_top_small.jpg
+- doc/img/SUPERCAP01A_QRcode.png
+mark: 50
+status: 0
+tags: []
+title: SUPERCAP01
+updated: '2023-09-17T11:39:09.867876+00:00'
